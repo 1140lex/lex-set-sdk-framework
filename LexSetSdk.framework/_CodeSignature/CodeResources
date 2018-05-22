@@ -18,7 +18,7 @@
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		i1iw3YRtSWSg7+asQQ7yeK2nHgg=
+		Tm6WV3HX8s68w2idFWkd4wUXFxA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -61,11 +61,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i1iw3YRtSWSg7+asQQ7yeK2nHgg=
+			Tm6WV3HX8s68w2idFWkd4wUXFxA=
 			</data>
 			<key>hash2</key>
 			<data>
-			T2UilQfYg4F3mh8zKwf2c5jkDnytcp29hy7ZH2pnOHk=
+			JmJWCFbDq7CryMA2JiCwHO4BxIp2X4QSZO6EbM4lQq8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
