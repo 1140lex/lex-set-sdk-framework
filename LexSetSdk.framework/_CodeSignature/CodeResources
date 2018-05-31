@@ -4,68 +4,105 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>053118frozen_inference_graph.pb</key>
+		<data>
+		cogu13lzAY5+OeC8yMJ5Np0Vw3I=
+		</data>
+		<key>053118label.pbtxt</key>
+		<data>
+		bkDDhMjW3DhvTcI0b0su280GhDE=
+		</data>
+		<key>Assets.car</key>
+		<data>
+		xnSLozy1KDTz8a7HDyz98uwXZ9Q=
+		</data>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<data>
-		ffucw2s26cxfs80biEKY5m1BnXs=
+		r1+q6nNW2Yi3vcNFjE6kbDD8EGU=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KVU0qXSK1fNcRcyGr+Cb6yv5GuI=
+		rqtFsFimyk55vtJ7mb8iXjQ1HHo=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		hKuqOFxcdl7oF8cdO5oJMWC2XcY=
+		cfHIhTWycmoe1GeJgOidP3+4wbU=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		RtMMwRGttaTRcqkDc+aJNISH6WA=
+		CgYsdoe0yjlHh7/FjsUAaukFlaA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		Izu0Us3GxZ6YwijlofnYVwm70CA=
 		</data>
-		<key>v3camera_frozen_inference_graph.pb</key>
-		<data>
-		Kw1Bj/M4xGbUryNbSipx2SaxqG8=
-		</data>
-		<key>v3camera_label.txt</key>
-		<data>
-		it5LybDT7hCPgjRdDt95tn7UC4U=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>053118frozen_inference_graph.pb</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cogu13lzAY5+OeC8yMJ5Np0Vw3I=
+			</data>
+			<key>hash2</key>
+			<data>
+			+kRZhGqcdLYrhM5Mi8VnJlxc/hI2QbznHEjiBlJw8ng=
+			</data>
+		</dict>
+		<key>053118label.pbtxt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			bkDDhMjW3DhvTcI0b0su280GhDE=
+			</data>
+			<key>hash2</key>
+			<data>
+			EehqAhdZXxmwP+n0eI8eM+SPdmqv10QwWUV2mLYCe2M=
+			</data>
+		</dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			xnSLozy1KDTz8a7HDyz98uwXZ9Q=
+			</data>
+			<key>hash2</key>
+			<data>
+			pRfvQ+TIa7kYQNkNNu6Vi7WE0XEyFl1ZLgRchfvvNLc=
+			</data>
+		</dict>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			ffucw2s26cxfs80biEKY5m1BnXs=
+			r1+q6nNW2Yi3vcNFjE6kbDD8EGU=
 			</data>
 			<key>hash2</key>
 			<data>
-			+UE9JOwyovGMchha7BM3t92FNPgbrwdubLfzZHieuyI=
+			AcrtYPYXwaHy9vWm/t+8QDcogspkPpeF6drFjzaq/So=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hKuqOFxcdl7oF8cdO5oJMWC2XcY=
+			cfHIhTWycmoe1GeJgOidP3+4wbU=
 			</data>
 			<key>hash2</key>
 			<data>
-			hrJNoI9tAwwG0JHiYgAgabQnPPgAqhb+tcXaRmjp7+E=
+			MbVlmYnsOf4Svnxc07qdyR9CTSf8ctNogcCyLgdbLtY=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RtMMwRGttaTRcqkDc+aJNISH6WA=
+			CgYsdoe0yjlHh7/FjsUAaukFlaA=
 			</data>
 			<key>hash2</key>
 			<data>
-			viAMbb/ddqpZbYfzwMTpkmhqRjHcThXY7IlUlYPo8Qc=
+			tFwaf2p2d9LvB/rI/g1QqeFDNdooe+jXdWcl/xm/Y74=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -77,28 +114,6 @@
 			<key>hash2</key>
 			<data>
 			XRj/v4G4Q6R+5uWhxLLCJwIOfDhK7QMBL8s17F9yVB8=
-			</data>
-		</dict>
-		<key>v3camera_frozen_inference_graph.pb</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Kw1Bj/M4xGbUryNbSipx2SaxqG8=
-			</data>
-			<key>hash2</key>
-			<data>
-			Bjqzlkzke7LIXNfE5eN1t7z4vLPPMFCEvLyJgr+iu6s=
-			</data>
-		</dict>
-		<key>v3camera_label.txt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			it5LybDT7hCPgjRdDt95tn7UC4U=
-			</data>
-			<key>hash2</key>
-			<data>
-			8bIrHEzEhRDHK+gVgScgzMobk0x0YpAdK/1NrAo7Up8=
 			</data>
 		</dict>
 	</dict>
