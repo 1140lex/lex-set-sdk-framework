@@ -4,116 +4,99 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>053118frozen_inference_graph.pb</key>
-		<data>
-		cogu13lzAY5+OeC8yMJ5Np0Vw3I=
-		</data>
-		<key>053118label.pbtxt</key>
-		<data>
-		bkDDhMjW3DhvTcI0b0su280GhDE=
-		</data>
-		<key>Assets.car</key>
-		<data>
-		xnSLozy1KDTz8a7HDyz98uwXZ9Q=
-		</data>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<data>
-		r1+q6nNW2Yi3vcNFjE6kbDD8EGU=
+		Eq2ULQ52w595tDOU26JXuQ6fQaM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rqtFsFimyk55vtJ7mb8iXjQ1HHo=
+		2Fd6XeDnGzOpLwvj8o7pCFF6XPA=
+		</data>
+		<key>LexSetInfo.plist</key>
+		<data>
+		nQLjOwMmSu0bKTtRwLe8hA6ja6A=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		cfHIhTWycmoe1GeJgOidP3+4wbU=
+		LHy6MQwmelc+V5vFmiun39vInOI=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		CgYsdoe0yjlHh7/FjsUAaukFlaA=
+		kYZkDT+QUqxCFTS/Z7axMJY6KpE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Izu0Us3GxZ6YwijlofnYVwm70CA=
+		K+JaWFA2KPAj+zf4F0plPkKnfls=
+		</data>
+		<key>default.metallib</key>
+		<data>
+		6Uxj6cfg9+Od6xfW5E/1qCxOggI=
+		</data>
+		<key>mscoco_label_map.pb</key>
+		<data>
+		NdVxrDFPHTKuZ4qFf4fMDvayIOg=
+		</data>
+		<key>mscoco_label_map.pbtxt.txt</key>
+		<data>
+		5JWozet3oDBNSPNT6VhdtDhMwGY=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>053118frozen_inference_graph.pb</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			cogu13lzAY5+OeC8yMJ5Np0Vw3I=
-			</data>
-			<key>hash2</key>
-			<data>
-			+kRZhGqcdLYrhM5Mi8VnJlxc/hI2QbznHEjiBlJw8ng=
-			</data>
-		</dict>
-		<key>053118label.pbtxt</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			bkDDhMjW3DhvTcI0b0su280GhDE=
-			</data>
-			<key>hash2</key>
-			<data>
-			EehqAhdZXxmwP+n0eI8eM+SPdmqv10QwWUV2mLYCe2M=
-			</data>
-		</dict>
-		<key>Assets.car</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			xnSLozy1KDTz8a7HDyz98uwXZ9Q=
-			</data>
-			<key>hash2</key>
-			<data>
-			pRfvQ+TIa7kYQNkNNu6Vi7WE0XEyFl1ZLgRchfvvNLc=
-			</data>
-		</dict>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			r1+q6nNW2Yi3vcNFjE6kbDD8EGU=
-			</data>
 			<key>hash2</key>
 			<data>
-			AcrtYPYXwaHy9vWm/t+8QDcogspkPpeF6drFjzaq/So=
+			xivZuFRMUH4ZDAAZi4GK3k7bX54/AZYHpJZQkRYHtXM=
+			</data>
+		</dict>
+		<key>LexSetInfo.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			iAFAdoB2Z/dHfZhuSstNVSmP0lS3FTSwrxaBOP23lYA=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			cfHIhTWycmoe1GeJgOidP3+4wbU=
-			</data>
 			<key>hash2</key>
 			<data>
-			MbVlmYnsOf4Svnxc07qdyR9CTSf8ctNogcCyLgdbLtY=
+			OanhoBbPQcsW19mJV1LNYntEPds90aXWTCh22uCHM9A=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			CgYsdoe0yjlHh7/FjsUAaukFlaA=
-			</data>
 			<key>hash2</key>
 			<data>
-			tFwaf2p2d9LvB/rI/g1QqeFDNdooe+jXdWcl/xm/Y74=
+			eBYYc7aDvtBbmHVqUTeaRqewojFmC1Ac677I68hVEgw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
-			<key>hash</key>
-			<data>
-			Izu0Us3GxZ6YwijlofnYVwm70CA=
-			</data>
 			<key>hash2</key>
 			<data>
-			XRj/v4G4Q6R+5uWhxLLCJwIOfDhK7QMBL8s17F9yVB8=
+			1+bNWLpK+6yvLg5x0+FUA4oj1BXvgkJbvER9Q6sspaI=
+			</data>
+		</dict>
+		<key>default.metallib</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UktNsR27F66PPFndimxFMe9o5r+G9/B7d0RKN0Muj9s=
+			</data>
+		</dict>
+		<key>mscoco_label_map.pb</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ko2KidaVhC5g2MbRRBgRAFVVY+Iazy+h6PVh/sXDxq0=
+			</data>
+		</dict>
+		<key>mscoco_label_map.pbtxt.txt</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			usQ6+9kZ34y3CjVyJ/Pbx34SKDyshJQlTtmex9U3ExY=
 			</data>
 		</dict>
 	</dict>
