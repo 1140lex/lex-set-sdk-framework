@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<data>
-		uSHXvotBnomDYxXn5A3cMn5iThM=
+		6sRJ+A5IjSaUWiGGjkQ5ou2m3e8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		TvSsh/Ec8l04Ai91MhD3QLEvLeU=
+		oKvfHgUyCP2XMu3iNGgrPytzUVI=
 		</data>
 		<key>LexSetInfo.plist</key>
 		<data>
@@ -18,19 +18,19 @@
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		DogAFS2O0muvfBYj7keSzsIX1PY=
+		st5MhsR1ltPO4fZNwCIucv/CcU0=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		r9BjmGFkMpDF5V401CtEJs4Mcmc=
+		ipv2Hm9YNFiFrS7p0c2iG2Ru5AE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Izu0Us3GxZ6YwijlofnYVwm70CA=
+		K+JaWFA2KPAj+zf4F0plPkKnfls=
 		</data>
 		<key>default.metallib</key>
 		<data>
-		vY74KMYxBiJ3rJoSRiqA79C6COY=
+		57tOjReGStvzeeDLCTW2JRkrui0=
 		</data>
 		<key>mscoco_label_map.pb</key>
 		<data>
@@ -47,7 +47,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/430cqp7FOSLJxPA0y/kUSDbvUs/zNjppxsmuHkmWU=
+			FUf/HAw9vUvKlh1COmcHwzZFgjTkw2UtMzkvLs1z5Sg=
 			</data>
 		</dict>
 		<key>LexSetInfo.plist</key>
@@ -61,28 +61,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bj/s1k3IcA5IRMTzyN9xY3Eihvj7CIdaaVMhszamk7w=
+			QNr1QwaPbtykphxFVQmp3XoPiD44Ft/FeJZg6VLw0RI=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mIy1My8bbWd7gzDuotlagEl0N5MNdZ7hG7KU02Ctnl4=
+			EhBq76gAXKNAcDQL9KNjILwmoCW6w4l1EXYd1Y9uYls=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XRj/v4G4Q6R+5uWhxLLCJwIOfDhK7QMBL8s17F9yVB8=
+			1+bNWLpK+6yvLg5x0+FUA4oj1BXvgkJbvER9Q6sspaI=
 			</data>
 		</dict>
 		<key>default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			l7IoR6gkdvPm5I9hDOzlGHOMhZHZL8U4W8p/4BxftLo=
+			OBiv5+IPPXHTrrI5P5Nj6KZ6iztDj83+Lvuq4iytoy4=
 			</data>
 		</dict>
 		<key>mscoco_label_map.pb</key>
