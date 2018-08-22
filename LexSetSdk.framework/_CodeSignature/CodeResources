@@ -6,31 +6,31 @@
 	<dict>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<data>
-		uSHXvotBnomDYxXn5A3cMn5iThM=
+		6sRJ+A5IjSaUWiGGjkQ5ou2m3e8=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8kbCzr8oHYWxOwdA5hJu2E3xuh4=
+		4gitLmoowZdoewF+JQsjzxx4yzE=
 		</data>
 		<key>LexSetInfo.plist</key>
 		<data>
-		7ABNgFM1m6FdVrqOqkM1KiCCXgc=
+		70FcPQSoPu16ySkZsAF8UrF2jHY=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Oyo7HGcoJvkNc0WpMTuMODbk/Mo=
+		8ofTMNwjdBW2+D9xw9noBUc4Vxg=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8rNAKWzFdbE/nR/pBS4yY2+mwkQ=
+		i2779O6wpRYOnLPySkdbF0vQsmM=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		Izu0Us3GxZ6YwijlofnYVwm70CA=
+		K+JaWFA2KPAj+zf4F0plPkKnfls=
 		</data>
 		<key>default.metallib</key>
 		<data>
-		hJqpKlRNWcrIbJZk/t31SaHa37M=
+		57tOjReGStvzeeDLCTW2JRkrui0=
 		</data>
 		<key>mscoco_label_map.pb</key>
 		<data>
@@ -47,42 +47,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/430cqp7FOSLJxPA0y/kUSDbvUs/zNjppxsmuHkmWU=
+			FUf/HAw9vUvKlh1COmcHwzZFgjTkw2UtMzkvLs1z5Sg=
 			</data>
 		</dict>
 		<key>LexSetInfo.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmOPUUMdBqcaNSgydn0Y+Coh/ZLiZxeE+tqgmYY29Vk=
+			mHmiB7cNpPjgIjHRbQe0HuWDF9uCcUYqQJ8KjO6qytc=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YmfenAvebM0EB4xl384hzyyWQXrx9j3wMoL/xB5wBIw=
+			NH2YyBYzY2W51reoD1T4Tsqzx7q1MIWvXZDuqwQ1g+M=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fNUppf+0pgNX3X31scV2R7v+1J1s/q6YtQ4pvi8Vujw=
+			qwREf0ZC3i20OJ2G1GG289MB9Ts4NNhO0ZxpJmJshnU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XRj/v4G4Q6R+5uWhxLLCJwIOfDhK7QMBL8s17F9yVB8=
+			1+bNWLpK+6yvLg5x0+FUA4oj1BXvgkJbvER9Q6sspaI=
 			</data>
 		</dict>
 		<key>default.metallib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			bQ6BPf6E3u1uFP1JV9/N5Sfe//aEAO+frdAOCsdmsFs=
+			OBiv5+IPPXHTrrI5P5Nj6KZ6iztDj83+Lvuq4iytoy4=
 			</data>
 		</dict>
 		<key>mscoco_label_map.pb</key>
