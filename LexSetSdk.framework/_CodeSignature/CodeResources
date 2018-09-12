@@ -4,25 +4,37 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>85406.pb</key>
+		<data>
+		lNJZfM8qrSTlOns1mHGdvrRQwZc=
+		</data>
+		<key>85406.pbtxt</key>
+		<data>
+		37oJHlHbMp3+Igk/tRKZ70IJxEg=
+		</data>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<data>
 		uSHXvotBnomDYxXn5A3cMn5iThM=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		8kbCzr8oHYWxOwdA5hJu2E3xuh4=
+		tWI9MTs5xQZh4hpnM4aoWOGGEmA=
 		</data>
 		<key>LexSetInfo.plist</key>
 		<data>
-		7ABNgFM1m6FdVrqOqkM1KiCCXgc=
+		g66+Dhsb/0HYXK2+0yiCu6Sm31o=
+		</data>
+		<key>LexSetSdk-Swift.h</key>
+		<data>
+		lpBcPUvM5KF+jK270PfD9xcr1uc=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		Oyo7HGcoJvkNc0WpMTuMODbk/Mo=
+		VVbFYY1S9a1rixPUTiVX54ZlcxA=
 		</data>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		8rNAKWzFdbE/nR/pBS4yY2+mwkQ=
+		KDTf9rWvg4H70CGnQowoQ8wBQlQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -30,21 +42,39 @@
 		</data>
 		<key>default.metallib</key>
 		<data>
-		hJqpKlRNWcrIbJZk/t31SaHa37M=
-		</data>
-		<key>mscoco_label_map.pb</key>
-		<data>
-		NdVxrDFPHTKuZ4qFf4fMDvayIOg=
-		</data>
-		<key>mscoco_label_map.pbtxt.txt</key>
-		<data>
-		5JWozet3oDBNSPNT6VhdtDhMwGY=
+		FhiuATHG/ggiKQWBK2zJ7Fu9LZ8=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>85406.pb</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lNJZfM8qrSTlOns1mHGdvrRQwZc=
+			</data>
+			<key>hash2</key>
+			<data>
+			aPn5sZnFUEN5TiUS83gwBENMKrR+gUaECsw32vlhxUc=
+			</data>
+		</dict>
+		<key>85406.pbtxt</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			37oJHlHbMp3+Igk/tRKZ70IJxEg=
+			</data>
+			<key>hash2</key>
+			<data>
+			d77rWSRu3IhfJBNSQxVfjKUi9v+ia8LPO0Bb+vjZD5M=
+			</data>
+		</dict>
 		<key>Headers/LexSetSdk-Swift.h</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			uSHXvotBnomDYxXn5A3cMn5iThM=
+			</data>
 			<key>hash2</key>
 			<data>
 			1/430cqp7FOSLJxPA0y/kUSDbvUs/zNjppxsmuHkmWU=
@@ -52,27 +82,54 @@
 		</dict>
 		<key>LexSetInfo.plist</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			g66+Dhsb/0HYXK2+0yiCu6Sm31o=
+			</data>
 			<key>hash2</key>
 			<data>
-			XmOPUUMdBqcaNSgydn0Y+Coh/ZLiZxeE+tqgmYY29Vk=
+			Jemswzggk1ynVRjBRCCvniUzAFDPEl0fcndOvIQ+oJQ=
+			</data>
+		</dict>
+		<key>LexSetSdk-Swift.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lpBcPUvM5KF+jK270PfD9xcr1uc=
+			</data>
+			<key>hash2</key>
+			<data>
+			wZNqy7JPlLMabbzXXvmU3fxHn2+5nSLOwo8TIf1J2es=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftdoc</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			VVbFYY1S9a1rixPUTiVX54ZlcxA=
+			</data>
 			<key>hash2</key>
 			<data>
-			YmfenAvebM0EB4xl384hzyyWQXrx9j3wMoL/xB5wBIw=
+			w9ulPzX3Lbbp+P52FniNMoEqVDOFrFbUiQv2e8uRRH4=
 			</data>
 		</dict>
 		<key>Modules/LexSetSdk.swiftmodule/arm64.swiftmodule</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			KDTf9rWvg4H70CGnQowoQ8wBQlQ=
+			</data>
 			<key>hash2</key>
 			<data>
-			fNUppf+0pgNX3X31scV2R7v+1J1s/q6YtQ4pvi8Vujw=
+			vtUeOj0Y2np5G0kJl+VIEwlUxGxLGgA6D8Fv5TSYSJc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
+			<key>hash</key>
+			<data>
+			Izu0Us3GxZ6YwijlofnYVwm70CA=
+			</data>
 			<key>hash2</key>
 			<data>
 			XRj/v4G4Q6R+5uWhxLLCJwIOfDhK7QMBL8s17F9yVB8=
@@ -80,23 +137,13 @@
 		</dict>
 		<key>default.metallib</key>
 		<dict>
-			<key>hash2</key>
+			<key>hash</key>
 			<data>
-			bQ6BPf6E3u1uFP1JV9/N5Sfe//aEAO+frdAOCsdmsFs=
+			FhiuATHG/ggiKQWBK2zJ7Fu9LZ8=
 			</data>
-		</dict>
-		<key>mscoco_label_map.pb</key>
-		<dict>
 			<key>hash2</key>
 			<data>
-			Ko2KidaVhC5g2MbRRBgRAFVVY+Iazy+h6PVh/sXDxq0=
-			</data>
-		</dict>
-		<key>mscoco_label_map.pbtxt.txt</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			usQ6+9kZ34y3CjVyJ/Pbx34SKDyshJQlTtmex9U3ExY=
+			7zBWm+eKQOWQGeHFaZsd3NWJBIilaSZv03SoxsCgK90=
 			</data>
 		</dict>
 	</dict>
