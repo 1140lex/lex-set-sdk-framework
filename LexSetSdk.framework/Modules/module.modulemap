@@ -1,4 +1,4 @@
 framework module LexSetSdk {
-    header "LexSetSdk-Swift.h"
-    requires objc
+  header "LexSetSdk-Swift.h"
+  requires objc
 }
