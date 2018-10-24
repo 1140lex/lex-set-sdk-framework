@@ -1,0 +1,105 @@
+item {
+  id: 1
+  name: 'SKU00222973'
+}
+
+item {
+  id: 2
+  name: 'SKU00301526'
+}
+
+item {
+  id: 3
+  name: 'SKU10115067'
+}
+
+item {
+  id: 4
+  name: 'SKU10219178'
+}
+
+item {
+  id: 5
+  name: 'SKU10320341'
+}
+
+item {
+  id: 6
+  name: 'SKU10342102'
+}
+
+item {
+  id: 7
+  name: 'SKU30081467'
+}
+
+item {
+  id: 8
+  name: 'SKU30342648'
+}
+
+item {
+  id: 9
+  name: 'SKU40280517'
+}
+
+item {
+  id: 10
+  name: 'SKU40280678'
+}
+
+item {
+  id: 11
+  name: 'SKU40334704a'
+}
+
+item {
+  id: 12
+  name: 'SKU40334704b'
+}
+
+item {
+  id: 13
+  name: 'SKU59149612'
+}
+
+item {
+  id: 14
+  name: 'SKU60246080'
+}
+
+item {
+  id: 15
+  name: 'SKU60249960'
+}
+
+item {
+  id: 16
+  name: 'SKU69149602'
+}
+
+item {
+  id: 17
+  name: 'SKU70206804'
+}
+
+item {
+  id: 18
+  name: 'SKU70273092'
+}
+
+item {
+  id: 19
+  name: 'SKU80239724'
+}
+
+item {
+  id: 20
+  name: 'SKU80270125'
+}
+
+item {
+  id: 21
+  name: 'SKU90110061'
+}
+
